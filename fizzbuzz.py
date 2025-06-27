@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 for i in range(1,16+1):
     if i % 3 == 0:
         print('fizz')
+=======
+for i in range(1, 16+1):
+    if i % 5 == 0:
+        print('buzz')
+>>>>>>> buzz
     else:
         print(i)
